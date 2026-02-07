@@ -17,7 +17,7 @@ import io
 import html
 
 # Bot Configuration
-BOT_TOKEN = "8486328458:AAHR-7XmPq-2p7HlmEsDHCad-bmr0CG7jDE"
+BOT_TOKEN = "8486328458:AAHR-7XmPq-p7HlmEsDHCad-bmr0CG7jDE"
 ADMIN_IDS = [8291098446, 7265489223]
 CHANNEL_URL = "https://t.me/ZeroCyphh"
 CHANNEL_ID = "@zerocyph"
